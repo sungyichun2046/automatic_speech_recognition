@@ -1,0 +1,11 @@
+.idea/
+__pycache__/
+asr_tools/__pycache__/
+
+#passwords
+asr_tools/google_cloud_speech.json
+asr_tools/passwords.json
+
+#big files
+data/
+results/
