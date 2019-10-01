@@ -1,4 +1,7 @@
 {
-  "tool": "google_speech_recognition",
-  "audio_dir_fr": "/home/yichun/projects/automatic_speech_recognition/data/audio_files/0711"
+  "lang" : "fr",
+  "asr_tool": "google_cloud_speech",
+  "audio_dir_fr": "/home/yichun/projects/automatic_speech_recognition/data/audio_files"
 }
+
+
