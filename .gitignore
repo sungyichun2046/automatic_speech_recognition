@@ -7,5 +7,4 @@ asr_tools/google_cloud_speech.json
 asr_tools/passwords.json
 
 #big files
-data/
 results/
