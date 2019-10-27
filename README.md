@@ -29,7 +29,7 @@
 
 ### Usage: ###
 
- - Go up to the directory above `NLP chain` folder and run `python -m automatic_speech_recognition.main`
+ - Go up to the directory above `automatic_speech_recognition` folder and run `python -m automatic_speech_recognition.main`
  - Commands for evaluation: `https://github.com/belambert/asr-evaluation`
 
 ### Generate a requirements.txt file ###
